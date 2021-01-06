@@ -1,3 +1,3 @@
 # Graphics_Task
 a small module of painter that interact with user using console can draw line , circle and clipping circle 
-![2021-01-06 (1)](https://user-images.githubusercontent.com/57330162/103755208-1ebae700-5016-11eb-9264-c3c09aea0325.png)
+![2021-01-06 (4)](https://user-images.githubusercontent.com/57330162/103755860-3181eb80-5017-11eb-98a6-2e283e54d527.png)
